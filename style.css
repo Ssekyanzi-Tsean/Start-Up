@@ -20,5 +20,8 @@ ul {
   
   /* Change the link color to #111 (black) on hover */
   li a:hover {
-    background-color: #111;
+    background-color: #6F2232;
+  }
+  .active {
+    background-color:#C3073f
   }
